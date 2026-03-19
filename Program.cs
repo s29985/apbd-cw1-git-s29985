@@ -9,3 +9,8 @@ if (string.IsNullOrEmpty(input))
 }
 
 int[] numbers = input.Split(' ').Select(int.Parse).ToArray();
+
+static double CalculateAverage(int[] values)
+{
+    return values.Average();
+}
