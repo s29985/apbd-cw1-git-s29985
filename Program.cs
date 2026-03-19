@@ -14,4 +14,12 @@ static double CalculateAverage(int[] values)
 {
     return values.Average();
 }
+HEAD
 Console.WriteLine("Program started");
+
+
+static int CalculateMax(int[] values)
+{
+    return values.Max();
+}
+feature-max
