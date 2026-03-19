@@ -14,3 +14,4 @@ static double CalculateAverage(int[] values)
 {
     return values.Average();
 }
+Console.WriteLine("Program started");
