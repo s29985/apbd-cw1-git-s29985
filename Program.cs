@@ -23,3 +23,8 @@ static int CalculateMax(int[] values)
     return values.Max();
 }
 feature-max
+
+static int CalculateMin(int[] values)
+{
+    return values.Min();
+}
