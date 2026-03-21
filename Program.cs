@@ -23,4 +23,11 @@ static int CalculateMax(int[] values)
     return values.Max();
 }
 feature-max
+
 Console.WriteLine("Main updated again");
+=======
+
+static int CalculateMin(int[] values)
+{
+    return values.Min();
+}
