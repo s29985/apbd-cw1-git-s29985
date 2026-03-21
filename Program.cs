@@ -28,3 +28,4 @@ static int CalculateMin(int[] values)
 {
     return values.Min();
 }
+Console.WriteLine("Min calculated");
