@@ -23,3 +23,4 @@ static int CalculateMax(int[] values)
     return values.Max();
 }
 feature-max
+Console.WriteLine("Main updated again");
